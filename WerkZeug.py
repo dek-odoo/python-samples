@@ -7,6 +7,9 @@
 # delete student
 # never open file in each function, which will cause too many open file handlers
 # viewdata,loaddemodata,insertdata
+
+#PLEASE READ
+#THE FOLLOWING REQUIRES MY CUSTOM DEBUGG CLASS TO WORK
 import os
 import sys
 
