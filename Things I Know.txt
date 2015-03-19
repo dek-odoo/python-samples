@@ -1,0 +1,17 @@
+
+Good programming style
+Abstaction
+Polymorphism
+First Class functions
+Evolving Design Patterns
+
+python
+python-Decorators
+python-Metaclasses
+
+Versioning
+  Make things work without breaking the old code
+You want to make your old class work with new classes "with new requirements working" as well  
+  
+
+YOU CAN SEE MY PYTHON SAMPLES
