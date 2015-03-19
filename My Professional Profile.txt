@@ -1,3 +1,4 @@
+Including, Not Just Limited to :
 
 Good programming style
 Abstaction
@@ -13,5 +14,10 @@ Versioning
   Make things work without breaking the old code
 You want to make your old class work with new classes "with new requirements working" as well  
   
+Many Cool sumlime Tweaks
+Shell,Linux
+Things that boost productivity
+YOU CAN SEE MY PYTHON SAMPLES,AND OTHER PROJECTS
 
-YOU CAN SEE MY PYTHON SAMPLES
+
+btw, Am an android Developer as well ;)
