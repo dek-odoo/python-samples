@@ -9,6 +9,7 @@ Evolving Design Patterns
 python
 python-Decorators
 python-Metaclasses
+Monkey Patching
 
 Versioning
   Make things work without breaking the old code
