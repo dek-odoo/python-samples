@@ -13,7 +13,7 @@ python-Metaclasses
 Versioning
   Make things work without breaking the old code
 You want to make your old class work with new classes "with new requirements working" as well  
-  
+
 Many Cool sumlime Tweaks
 Shell,Linux
 Things that boost productivity
