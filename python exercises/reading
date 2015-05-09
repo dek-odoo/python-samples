@@ -1,0 +1,1 @@
+You can run Ipython in sublime text which makes it unnecessary to switch to terminal every time you want to test your code. Combined with pdb it makes a deadly combination for exterminating the bugs. 

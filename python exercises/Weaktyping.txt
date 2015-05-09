@@ -1,0 +1,7 @@
+Weak typing
+
+    Only constraints on an object that is passed into a function are that the function can apply its operations to that object 
+
+def sum(arg1, arg2): return arg1 + arg2 print sum(42, 47) print sum('spam', 'eggs')
+
+    “ Weak” sounds bad 
